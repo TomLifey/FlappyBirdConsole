@@ -1,6 +1,6 @@
 # Flappy Bird Console Game
 
-**Author:** Tomlifey
+**Author:** Mustafa Khalid **(Tomlifey)**
 **Date:** 12 January 2026  
 **Course:** Introduction to Programming  
 
