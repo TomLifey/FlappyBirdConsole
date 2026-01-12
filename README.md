@@ -62,6 +62,6 @@ g++ FlappyBird.cpp -o FlappyBird
 ./FlappyBird
 ### **Windows**
 
-Windows (```Command Prompt / ```PowerShell):
+Windows (Command Prompt / PowerShell):
 g++ FlappyBird.cpp -o FlappyBird.exe
 FlappyBird.exe
