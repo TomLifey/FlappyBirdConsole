@@ -1,14 +1,15 @@
 # Flappy Bird Console Game
 
-**Author:** TomLifey
+**Author:** Tomlifey
 **Date:** 12 January 2026  
+**Course:** Introduction to Programming  
 
 ---
 
 ## Description
 This is a **console-based Flappy Bird game** implemented in C++.  
-The game is designed to run on both **Linux/macOS and Windows** consoles.  
-It uses basic programming concepts learned in the course, such as:
+The game is designed to run on **Linux, macOS, and Windows** consoles.  
+It demonstrates basic programming concepts:
 
 - **Functions** for modular code.  
 - **Loops** (`while`) for repeated actions.  
@@ -30,7 +31,7 @@ It uses basic programming concepts learned in the course, such as:
 - Adjustable **difficulty levels**: Easy, Medium, Hard.  
 - **High score tracking** within the session.  
 - Works on **Linux, macOS, and Windows**.  
-- **Portable and simple console graphics**.  
+- **Simple console graphics** for easy portability.  
 
 ---
 
@@ -50,18 +51,20 @@ It uses basic programming concepts learned in the course, such as:
 ---
 
 ## Requirements
-- **C++ compiler** (g++, clang++)  
-- **Linux/macOS or Windows console**  
+- **C++ compiler** (g++, clang++, or Visual Studio / MinGW)  
+- **Linux, macOS, or Windows console**  
 
 ---
 
 ## How to Compile and Run
-### Linux/macOS:
+
+### **Linux/macOS**
 ```bash
 g++ FlappyBird.cpp -o FlappyBird
 ./FlappyBird
-### **Windows**
-
-Windows (Command Prompt / PowerShell):
+```
+### Windows
+```bash
 g++ FlappyBird.cpp -o FlappyBird.exe
 FlappyBird.exe
+
